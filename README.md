@@ -1,2 +1,2 @@
 # ki-kollaboration
-Entwicklung einer Open-Source-Plattform für die Zusammenarbeit zwischen verschiedenen KI-Systemen. Integration von FastAPI für schnelles Prototyping und Istio für skalierbare Produktionsumgebungen. Fokus auf Effizienz, Sicherheit und ethische Verantwortung
+Development of an open-source platform for collaboration between different AI systems. Integration of FastAPI for rapid prototyping and Istio for scalable production environments. Focus on efficiency, security, and ethical responsibility.
